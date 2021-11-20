@@ -5,7 +5,7 @@
 ```bash
 chmod +x changelog.py
 ```
-2. Tu process repository and create changelog:  
+2. To process repository and create changelog:  
 ```bash
 ./changelog.py [-h] [--path-repo PATH] [--outfile OUTFILE] [--since SINCE] [--auto-name] [--repo-name NAME] [--date-group] [--format FORMAT] [--log-level LEVEL]
 ```
