@@ -11,7 +11,7 @@ import sys
 import time
 
 __app_name = "GIT ChangeLog Creator"
-__app_version = "1.0"
+__app_version = "1.0.1"
 
 
 class Format:
