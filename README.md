@@ -1,11 +1,15 @@
 # GIT ChangeLog Creator
 
 ## Usage
-1. Set permissions to `changelog.py`:
+1. Install requirements dependencies:
+```bash
+pip3 install -r requirements.txt
+```
+2. Set permissions to `changelog.py`:
 ```bash
 chmod +x changelog.py
 ```
-2. To process repository and create changelog:  
+3. To process repository and create changelog:  
 ```bash
 ./changelog.py [-h] [--path-repo PATH] [--outfile OUTFILE] [--since SINCE] [--auto-name] [--repo-name NAME] [--date-group] [--format FORMAT] [--log-level LEVEL]
 ```
