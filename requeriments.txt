@@ -1,0 +1,2 @@
+pydriller==2.0
+progressbar2==3.55.0
